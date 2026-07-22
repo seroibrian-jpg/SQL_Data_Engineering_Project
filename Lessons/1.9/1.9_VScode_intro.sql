@@ -1,7 +1,7 @@
-select distinct
-  job_country
-from
-  job_postings_fact;
+select 43 as answer;
+
+
+se
 
 
 
