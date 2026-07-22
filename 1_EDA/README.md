@@ -13,11 +13,11 @@
 
 If you have a minute, revew these:
 
-1. [Top_Demanded_Skills.sql](/1_EDA\01_top_demanded_skills.sql) - Demand analysis with multi-table joins.
+1. [Top_Demanded_Skills.sql](/1_EDA/01_top_demanded_skills.sql) - Demand analysis with multi-table joins.
 
-2. [Top_paying_skils.sql](/1_EDA\02_top_paying_skills.sql) - Salary analysis with aggregations.
+2. [Top_paying_skils.sql](/1_EDA/02_top_paying_skills.sql) - Salary analysis with aggregations.
 
-3. [Optimal_skills.sql](/1_EDA\03_optimal_skills.sql)- Combined demand/salary optimization.
+3. [Optimal_skills.sql](/1_EDA/03_optimal_skills.sql)- Combined demand/salary optimization.
 
 ## Problem & Context
 Job market analysts need to answer questions like:
@@ -27,7 +27,7 @@ Job market analysts need to answer questions like:
 
 This project analyzes a **Data Warehouse** built using star schema design. The warehouse structure consist of: 
 
-![Data Warehouse](../images\1_2_Data_Warehouse.png)
+![Data Warehouse](../images/1_2_Data_Warehouse.png)
 
 - **Fact Table:** `job_postings-fact` - Central table containing job postings details(job titles, location, salaries, date, etc)
 
@@ -52,11 +52,11 @@ By querrying between these interconected tables, I extracted insights about skil
 ## 🏗 Analysis Overview
 
 ### Query Structure
-1. [Top Demanded Skills.sql](/1_EDA\01_top_demanded_skills.sql) - Demand analysis with multi-table joins.
+1. [Top Demanded Skills.sql](/1_EDA/01_top_demanded_skills.sql) - Demand analysis with multi-table joins.
 
-2. [Top paying skils.sql](/1_EDA\02_top_paying_skills.sql) - Salary analysis with aggregations.
+2. [Top paying skils.sql](/1_EDA/02_top_paying_skills.sql) - Salary analysis with aggregations.
 
-3. [Optimal skills.sql](/1_EDA\03_optimal_skills.sql)- Combined demand/salary optimization.
+3. [Optimal skills.sql](/1_EDA/03_optimal_skills.sql)- Combined demand/salary optimization.
 
 ### Key Insights
 - 🧠 `Core languages:` SQL and Python each appear in ~29,000 job postings, making them the most demanded skills  
