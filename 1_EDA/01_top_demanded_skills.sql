@@ -2,7 +2,7 @@
 Quiz: What are the most in-demand skills for Data Engineers?
      -Identify the top 10 in-demand skills for Data Engineers.
      -Focus on Remote Job Postings.
-     Why? Retrieves thr top 10 skills with the highest demand in the remote job market,
+     Why? Retrieves the top 10 skills with the highest demand in the remote job market,
      providing insights into the most valuable skills for Data Engineers seeking remote work.
 
 
