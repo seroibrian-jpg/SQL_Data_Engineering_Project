@@ -1,5 +1,5 @@
 select distinct
-  job_country
+  job_tittle_short
 from 
   job_postings_fact;
 
